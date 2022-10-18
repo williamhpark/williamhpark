@@ -24,6 +24,6 @@ I'm William! I'm a third-year computer engineering student at the University of 
 
 ### 📫 Contact
 
-Email: william.park@uwaterloo.ca
+Email: w22park@uwaterloo.ca
 
 LinkedIn: [williamparkuw](https://linkedin.com/in/williamparkuw)
