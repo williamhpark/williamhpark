@@ -1,6 +1,6 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm William! I'm a third-year computer engineering student at the University of Waterloo. I've worked as a software developer in 3 previous co-ops, most recently at [1Password](https://1password.com/), and I'm former web team lead for [Waterloop](https://teamwaterloop.ca/), UW's Hyperloop team. Besides web development, some other things I'm interested in are machine learning, cryptocurrency, and any other applications of tech that can contribute to social good! To learn more about me, check out my [personal website](https://www.williampark.ca/).
+I'm William! I'm a fourth-year computer engineering student at the University of Waterloo. I previously worked as a software developer at 3 companies, most recently at [1Password](https://1password.com/), and I'm former web team lead for [Waterloop](https://teamwaterloop.ca/), UW's Hyperloop team. Besides web development, some other things I'm interested in are machine learning, blockchain, and any other applications of tech that can contribute to social good! To learn more about me, check out my [personal website](https://www.williampark.ca/).
 
 🎸 I also love playing and listening to music! If you like guitar, check out my music account on [Instagram](https://www.instagram.com/williamparkmusic/).
 
