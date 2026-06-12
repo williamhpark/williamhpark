@@ -1,8 +1,6 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm William! I'm a fourth-year computer engineering student at the University of Waterloo. I previously worked as a software developer at 3 companies, most recently at [1Password](https://1password.com/), and I'm former web team lead for [Waterloop](https://teamwaterloop.ca/), UW's Hyperloop team. Besides web development, some other things I'm interested in are machine learning, blockchain, and any other applications of tech that can contribute to social good! To learn more about me, check out my [personal website](https://www.williampark.ca/).
-
-🎸 I also love playing and listening to music! If you like guitar, you can check out some of the music I like playing on [YouTube](https://youtube.com/playlist?list=PLDwNwv0NMcF7aautxVZpOWOmxnbRYjJMF).
+I'm William! I'm a computer engineering graduate from the University of Waterloo, and I currently work at Uber as a software engineer in the Platform Engineering org.
 
 ### 🔨 Technologies & Tools
 
@@ -24,6 +22,6 @@ I'm William! I'm a fourth-year computer engineering student at the University of
 
 ### 📫 Contact
 
-Email: w22park@uwaterloo.ca
+Email: william.park@uwaterloo.ca
 
 LinkedIn: [williamparkuw](https://linkedin.com/in/williamparkuw)
